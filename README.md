@@ -1,1 +1,1 @@
-Here i was learning react 
+Here i will upload all the features and method about the react 
